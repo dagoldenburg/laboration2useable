@@ -23,10 +23,5 @@ public class MainActivity extends AppCompatActivity {
 
         loadGameButton = (Button) findViewById(R.id.button_load_game);
         loadGameButton.setOnClickListener(new LoadGameListener(this));
-
-
     }
-
-
-
 }
