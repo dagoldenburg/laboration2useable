@@ -13,9 +13,8 @@ import android.view.View;
 
 import com.example.micke.laboration2.R;
 
-/**
- * TODO: document your custom view class.
- */
+
+
 public class GameView extends View {
 
     public GameView(Context context, @Nullable AttributeSet attrs) {
@@ -24,6 +23,6 @@ public class GameView extends View {
 
     @Override
     public void onDraw(Canvas canvas){
-        
+
     }
 }
