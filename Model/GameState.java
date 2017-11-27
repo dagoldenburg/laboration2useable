@@ -37,6 +37,7 @@ public class GameState {
         //a marker has a neibour in either horiontal
         //or veritcal plane (horiz +1 -1, vertical +8-8)
         //return true else return false;
+        return false;
     }
 
     private boolean isPossibleMove(int from, int to){
